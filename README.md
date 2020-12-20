@@ -24,6 +24,7 @@ Results<br><br>
 The first conclusion is to look at the successful campaigns and decipher when did the successes occur.  The best overall month is May with 111 successful campaigns and June comes in very close behind that number with 100.<br>
 The second conclusion is that the highest month of failures for campaigns is May with 52.  I find that odd because the month of May holds the highest number of successes and failures but at first blush per the line chart, I really thought October would be the walkaway winner since it shows a sharp peak increase from September.  
 Canceled campaigns are very consistent with their proportion except for January – that is a strong data table reveal but the line chart doesn’t accentuate that data.<br>
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)<br>
 **What can you conclude about the Outcomes based on Goals?<br>**
 Outcomes based on Goals shows me that meat of the campaigns landed in the first two goal categories – Less than $1,000 and between $1,000 - $4,999.  Not only did the sample size lie in that criteria, they also found the most percent success as well.  You could really decide to drill down in those areas further to understand more about their approach that lead to them either succeeding or finding failure.<br>
 Also, the campaigns that attempted to raise an amount greater than $50,000 found overwhelming failure but as to by how much?  It doesn’t tell us like the spreadsheet tells us how far skewed or how close they came to the expensive campaign finding success.<br>
