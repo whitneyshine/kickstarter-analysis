@@ -1,5 +1,5 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# kickstarter-analysis<br>
+Performing analysis on Kickstarter dataset consisting of 4,000 crowdfunding projects to uncover trends<br>
 **Kickstarting with Excel<br><br>**
 
 **Overview of Project<br>**
